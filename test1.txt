@@ -8,7 +8,7 @@ braffnch05-b
 branch06
 test commit comment error 01
 test commit on devbranch07
-test commit on devbranch07 v2
+test commit on devbranch07 v2s
 test accidental commit to master
 test accidental commit to master v2
 
